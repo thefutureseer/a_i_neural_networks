@@ -16,3 +16,17 @@ There are many different kinds of neural networks in artificial intelligence, ea
 
 8. Hopfield networks: Hopfield networks are used for associative memory tasks. They store patterns and can recall them from incomplete or noisy inputs.
 
+9. Radial basis function (RBF) networks: RBF networks are a type of feedforward neural network that use radial basis functions to model complex relationships between inputs and outputs. They are often used for function approximation and control applications.
+
+10. Echo state networks (ESNs): ESNs are a type of recurrent neural network that use a fixed random network as a reservoir of neurons. The output is then computed as a linear combination of the reservoir's state and the input. They are often used for time-series prediction and control.
+
+11. Deep reinforcement learning (DRL): DRL combines deep neural networks with reinforcement learning to enable agents to learn from their interactions with an environment. This has been used successfully for game playing, robotics, and autonomous driving.
+
+12. Modular neural networks (MNNs): MNNs are neural networks composed of multiple subnetworks, or modules, that can be combined in different ways to perform different tasks. They are often used for hierarchical processing and control.
+
+13. Self-organizing maps (SOMs): SOMs are a type of unsupervised neural network that map high-dimensional input data to a low-dimensional output space. They are often used for visualization and clustering.
+
+14. Spiking neural networks (SNNs): SNNs are a type of neural network that simulate the behavior of biological neurons, including the generation and propagation of action potentials. They are often used for modeling brain function and neuromorphic computing.
+
+15. Capsule networks: Capsule networks are a type of neural network that use capsules, or groups of neurons, to model spatial relationships between objects in an image. They are often used for image recognition and classification.
+
