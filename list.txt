@@ -1,4 +1,4 @@
-There are many different kinds of neural networks in artificial intelligence, each with its own specific architecture and application. Some of the most common types of neural networks include. Here are just a few examples of the many types of neural networks that exist. Each type has its own strengths and limitations, and is suited to different types of tasks and data.:
+There are many different kinds of neural networks in artificial intelligence, each with its own specific architecture and application and the field of neural networks continues to evolve rapidly with new types and variations being developed. Here are some of the most common types of neural networks. These are only a few examples of the many types of neural networks that exist. Each type has its own strengths and limitations, and is suited to different types of tasks and data.:
 
 1. Feedforward neural networks: These are the simplest type of neural network, in which information flows in only one direction, from input nodes through one or more hidden layers to output nodes.
 
