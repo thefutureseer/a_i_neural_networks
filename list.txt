@@ -1,3 +1,5 @@
+There are many different kinds of neural networks in artificial intelligence, each with its own specific architecture and application. Some of the most common types of neural networks include:
+
 1. Feedforward neural networks: These are the simplest type of neural network, in which information flows in only one direction, from input nodes through one or more hidden layers to output nodes.
 
 2. Convolutional neural networks (CNNs): CNNs are commonly used for image recognition and processing. They use a convolutional layer to filter and transform the input data before passing it on to a fully connected layer.
