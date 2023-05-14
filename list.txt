@@ -1,0 +1,16 @@
+1. Feedforward neural networks: These are the simplest type of neural network, in which information flows in only one direction, from input nodes through one or more hidden layers to output nodes.
+
+2. Convolutional neural networks (CNNs): CNNs are commonly used for image recognition and processing. They use a convolutional layer to filter and transform the input data before passing it on to a fully connected layer.
+
+3. Recurrent neural networks (RNNs): RNNs are designed to handle sequential data, such as time series or natural language processing. They use feedback loops to process information from previous time steps.
+
+4. Long short-term memory (LSTM) networks: LSTMs are a type of RNN that are specifically designed to handle long-term dependencies. They use memory cells to store information over time.
+
+5. Autoencoders: Autoencoders are used for unsupervised learning and dimensionality reduction. They learn to compress and decompress input data without the need for explicit labels.
+
+6. Generative adversarial networks (GANs): GANs are used for generating new data that is similar to a given dataset. They consist of two networks: a generator that creates new data, and a discriminator that tries to distinguish between real and generated data.
+
+7. Deep belief networks (DBNs): DBNs are a type of feedforward neural network that use unsupervised learning to build a hierarchy of feature detectors. They are often used for image and speech recognition.
+
+8. Hopfield networks: Hopfield networks are used for associative memory tasks. They store patterns and can recall them from incomplete or noisy inputs.
+
